@@ -1,0 +1,6 @@
+{
+  "name": "PSYCLONE - AI Mindset & Self-Learning Platform",
+  "description": "AI-powered mindset-building and self-learning platform for students: unhelpful thinking pattern identification, reflective micro-practices, and paced book learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
