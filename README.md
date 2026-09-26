@@ -1,3 +1,49 @@
+## 🚀 Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/PSYCLONE.git
+cd PSYCLONE
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Add Gemini API Key
+
+Create a `.env` file in the project root:
+
+```env
+GEMINI_API_KEY=your_gemini_api_key
+```
+
+### 4. Start PSYCLONE
+
+```bash
+npm run dev
+```
+
+Open **http://localhost:3000** in your browser.
+
+### 5. Start using PSYCLONE
+
+```text
+Home
+ → Talk to PSYCLONE
+ → Describe your situation
+ → Get book recommendations
+ → Choose a book
+ → Select 7-day or 30-day journey
+ → Complete daily practices
+ → Track your progress
+```
+
+You can also use **Explore Books** to directly select a book and start a learning journey.
+
 # PSYCLONE
 
 ### Understand yourself. Learn what helps. Take one step at a time.
